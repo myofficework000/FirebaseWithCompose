@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "884286906206",
+    "project_id": "b44demo",
+    "storage_bucket": "b44demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884286906206:android:181a4802f1e5678d84b9cf",
+        "android_client_info": {
+          "package_name": "abhishek.pathak.firebasedemob44"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7E135okqR4xulr2iWnPPqW4-IzgsP_e4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
