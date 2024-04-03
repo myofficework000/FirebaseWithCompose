@@ -2,6 +2,7 @@ package abhishek.pathak.firebasedemob44
 
 import abhishek.pathak.firebasedemob44.authentication.UserInfo
 import abhishek.pathak.firebasedemob44.firestore.NotesScreen
+import abhishek.pathak.firebasedemob44.realtime_database.ChatScreenRealtimeUI
 import abhishek.pathak.firebasedemob44.realtime_database.NotesScreenRealtime
 import abhishek.pathak.firebasedemob44.ui.theme.FirebaseDemoB44Theme
 import android.os.Bundle
@@ -27,7 +28,8 @@ class MainActivity : ComponentActivity() {
                     //FeatureScreen()
                     // LoginScreen()
                     //NotesScreen()
-                    NotesScreenRealtime()
+                    //NotesScreenRealtime()
+                    ChatScreenRealtimeUI()
                 }
             }
         }
